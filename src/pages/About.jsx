@@ -1,5 +1,6 @@
 import { useTranslation } from 'react-i18next';
 import { motion } from 'framer-motion';
+import profiloImg from '../assets/profilo.jpg';
 import './About.css';
 
 function About() {
@@ -17,7 +18,7 @@ function About() {
         <div className="about-content">
           <div className="about-image">
             <img 
-              src="https://via.placeholder.com/600x800/f0f0f0/666?text=Your+Photo" 
+              src={profiloImg} 
               alt="Interior Designer"
               className="profile-image"
             />
