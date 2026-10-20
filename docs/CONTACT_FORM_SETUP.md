@@ -106,8 +106,8 @@ function Contact() {
           <div className="contact-info">
             <div className="info-item">
               <h3 className="info-label">{t('contact.email')}</h3>
-              <a href="mailto:info@example.com" className="info-value">
-                info@example.com
+              <a href="mailto:jessica.difonte@gmail.com" className="info-value">
+                jessica.difonte@gmail.com
               </a>
             </div>
 
