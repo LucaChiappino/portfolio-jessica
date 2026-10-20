@@ -1,0 +1,42 @@
+[
+  {
+    "id": "nome-progetto-1",
+    "slug": "nome-progetto-1",
+    "title": {
+      "it": "Nome del Progetto",
+      "en": "Project Name"
+    },
+    "year": "2024",
+    "client": "Nome Cliente (lascia vuoto se preferisci)",
+    "description": {
+      "it": "Descrizione dettagliata del progetto in italiano. Spiega il concept, le scelte di design, i materiali utilizzati...",
+      "en": "Detailed project description in English. Explain the concept, design choices, materials used..."
+    },
+    "coverImage": "/projects/nome-progetto-1/cover.jpg",
+    "images": [
+      "/projects/nome-progetto-1/image1.jpg",
+      "/projects/nome-progetto-1/image2.jpg",
+      "/projects/nome-progetto-1/image3.jpg",
+      "/projects/nome-progetto-1/image4.jpg"
+    ]
+  },
+  {
+    "id": "nome-progetto-2",
+    "slug": "nome-progetto-2",
+    "title": {
+      "it": "Secondo Progetto",
+      "en": "Second Project"
+    },
+    "year": "2023",
+    "client": "",
+    "description": {
+      "it": "Altra descrizione progetto...",
+      "en": "Another project description..."
+    },
+    "coverImage": "/projects/nome-progetto-2/cover.jpg",
+    "images": [
+      "/projects/nome-progetto-2/image1.jpg",
+      "/projects/nome-progetto-2/image2.jpg"
+    ]
+  }
+]

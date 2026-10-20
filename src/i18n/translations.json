@@ -1,0 +1,76 @@
+{
+  "it": {
+    "translation": {
+      "nav": {
+        "home": "Home",
+        "projects": "Progetti",
+        "about": "Chi Sono",
+        "contact": "Contatti"
+      },
+      "home": {
+        "title": "Portfolio",
+        "subtitle": "Interior Design"
+      },
+      "projects": {
+        "title": "Progetti",
+        "year": "Anno",
+        "client": "Cliente",
+        "backToProjects": "Torna ai Progetti"
+      },
+      "about": {
+        "title": "Chi Sono",
+        "description": "Inserisci qui la tua biografia e presentazione professionale."
+      },
+      "contact": {
+        "title": "Contatti",
+        "email": "Email",
+        "phone": "Telefono",
+        "address": "Indirizzo",
+        "sendMessage": "Invia Messaggio",
+        "name": "Nome",
+        "message": "Messaggio",
+        "messageSent": "Messaggio inviato con successo"
+      },
+      "footer": {
+        "rights": "Tutti i diritti riservati"
+      }
+    }
+  },
+  "en": {
+    "translation": {
+      "nav": {
+        "home": "Home",
+        "projects": "Projects",
+        "about": "About",
+        "contact": "Contact"
+      },
+      "home": {
+        "title": "Portfolio",
+        "subtitle": "Interior Design"
+      },
+      "projects": {
+        "title": "Projects",
+        "year": "Year",
+        "client": "Client",
+        "backToProjects": "Back to Projects"
+      },
+      "about": {
+        "title": "About",
+        "description": "Add your biography and professional presentation here."
+      },
+      "contact": {
+        "title": "Contact",
+        "email": "Email",
+        "phone": "Phone",
+        "address": "Address",
+        "sendMessage": "Send Message",
+        "name": "Name",
+        "message": "Message",
+        "messageSent": "Message sent successfully"
+      },
+      "footer": {
+        "rights": "All rights reserved"
+      }
+    }
+  }
+}

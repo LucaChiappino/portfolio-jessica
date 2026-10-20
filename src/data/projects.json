@@ -1,0 +1,41 @@
+[
+  {
+    "id": "project-1",
+    "slug": "project-1",
+    "title": {
+      "it": "Progetto Esempio 1",
+      "en": "Sample Project 1"
+    },
+    "year": "2024",
+    "client": "Cliente Esempio",
+    "description": {
+      "it": "Descrizione del progetto in italiano",
+      "en": "Project description in English"
+    },
+    "coverImage": "/projects/project-1/cover.jpg",
+    "images": [
+      "/projects/project-1/image1.jpg",
+      "/projects/project-1/image2.jpg",
+      "/projects/project-1/image3.jpg"
+    ]
+  },
+  {
+    "id": "project-2",
+    "slug": "project-2",
+    "title": {
+      "it": "Progetto Esempio 2",
+      "en": "Sample Project 2"
+    },
+    "year": "2024",
+    "client": "",
+    "description": {
+      "it": "Altro progetto di design d'interni",
+      "en": "Another interior design project"
+    },
+    "coverImage": "/projects/project-2/cover.jpg",
+    "images": [
+      "/projects/project-2/image1.jpg",
+      "/projects/project-2/image2.jpg"
+    ]
+  }
+]
